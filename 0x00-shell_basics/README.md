@@ -1,12 +1,13 @@
 # 0x00-shell_basics
 
-0. Where am I? 
-1. What's in there? 
-2. There is no place like home 
-3. The long format
-4. Hidden files
-5. I love numbers
-6. Welcome
-7. Betty in my first directory
-8. Bye bye Betty
-9. Bye bye My first directory
+00. Where am I? 
+01. What's in there? 
+02. There is no place like home 
+03. The long format
+04. Hidden files
+05. I love numbers
+06. Welcome
+07. Betty in my first directory
+08. Bye bye Betty
+09. Bye bye My first directory
+10. Back to the future
