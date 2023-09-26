@@ -9,3 +9,4 @@
 6. Welcome
 7. Betty in my first directory
 8. Bye bye Betty
+9. Bye bye My first directory
