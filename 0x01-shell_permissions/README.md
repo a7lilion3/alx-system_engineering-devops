@@ -7,3 +7,4 @@
 04. Empty!<br>
 05. Execute<br>
 06. Multiple permissions<br>
+07. Everybody!<br>
