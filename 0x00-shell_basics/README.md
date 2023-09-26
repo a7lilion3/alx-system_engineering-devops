@@ -16,6 +16,7 @@
 13. We are symbols, and inhabit symbols
 14. Copy HTML files
 <br>
-## Advanced
+<h2>Advanced</h2>
 <br>
 15. Let's move
+16. Clean Emacs
