@@ -21,3 +21,4 @@
 15. Let's move<br> 
 16. Clean Emacs<br>
 17. Tree<br> 
+18. Life is a series of commas, not periods<br>
