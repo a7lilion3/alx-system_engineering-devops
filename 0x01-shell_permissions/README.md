@@ -18,3 +18,4 @@
 <h2>Advanced</h2>
 
 14. Owner and group<br>
+15. Symbolic links<br>
