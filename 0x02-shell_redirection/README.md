@@ -10,3 +10,4 @@
 07. It is a good file that cuts iron without making a noise<br> 
 08. Save current state of directory<br>
 09. Duplicate last line<br>
+10. No more javascript<br>
