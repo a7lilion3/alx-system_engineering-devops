@@ -29,3 +29,4 @@
 23. Empty casks make the most noise<br>
 24. A gif is worth ten thousand words<br>
 25. Acrostic<br>
+26. The biggest fan<br>
