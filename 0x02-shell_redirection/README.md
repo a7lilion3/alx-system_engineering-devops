@@ -9,3 +9,4 @@
 06. Line #2<br>
 07. It is a good file that cuts iron without making a noise<br> 
 08. Save current state of directory<br>
+09. Duplicate last line<br>
