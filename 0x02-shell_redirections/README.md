@@ -26,4 +26,5 @@
 
 <h2>Advanced</h2>
 
-23. Empty casks make the most noise
+23. Empty casks make the most noise<br>
+24. A gif is worth ten thousand words<br>
