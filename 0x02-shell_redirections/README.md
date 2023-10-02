@@ -23,3 +23,7 @@
 20. Without C, you would live in hiago<br>
 21. esreveR<br>
 22. DJ Cut Killer<br>
+
+<h2>Advanced</h2>
+
+23. Empty casks make the most noise
