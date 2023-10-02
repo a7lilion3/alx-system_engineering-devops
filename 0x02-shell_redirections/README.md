@@ -18,3 +18,4 @@
 15. Count that word<br>
 16. What's next?<br>
 17. I hate bins<br>
+18. Letters only please<br>
