@@ -7,3 +7,4 @@
 04. Global variables<br>
 05. Local variables<br>
 06. Local variable<br>
+07. Global variable<br>
