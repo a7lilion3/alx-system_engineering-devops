@@ -9,3 +9,5 @@
 06. Local variable<br>
 07. Global variable<br>
 08. Every addition to true knowledge is an addition to human power<br>
+09. Divide and rule<br>
+10. Love is anterio to life, posterior to death, initial of creation, and the exponent of breath<br>
