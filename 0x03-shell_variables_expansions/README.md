@@ -4,3 +4,4 @@
 01. Hello you<br>
 02. The path to success is to take massive, determined action<br>
 03. If the path be beautiful, let us not ask where it leads<br>
+04. Global variables<br>
