@@ -12,3 +12,4 @@
 09. Divide and rule<br>
 10. Love is anterio to life, posterior to death, initial of creation, and the exponent of breath<br>
 11. There are 10 types of people in the world -- Those who understand binary, and those who don't<br>
+12. Combination<br>
