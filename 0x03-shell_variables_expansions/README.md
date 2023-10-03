@@ -8,3 +8,4 @@
 05. Local variables<br>
 06. Local variable<br>
 07. Global variable<br>
+08. Every addition to true knowledge is an addition to human power<br>
