@@ -14,3 +14,4 @@
 11. There are 10 types of people in the world -- Those who understand binary, and those who don't<br>
 12. Combination<br>
 13. Floats<br>
+14. Decimal to Hexadecimal<br>
