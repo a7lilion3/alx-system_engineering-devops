@@ -14,4 +14,6 @@
 11. There are 10 types of people in the world -- Those who understand binary, and those who don't<br>
 12. Combination<br>
 13. Floats<br>
+<h2>Advanced</h2>
 14. Decimal to Hexadecimal<br>
+15. Everyone is a proponent of strong encryption<br>
