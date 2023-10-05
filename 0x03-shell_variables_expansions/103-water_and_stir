@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $WATER | tr 'water' 'bestchol' | tr "$(echo $STIR | tr 'stir.' 'bestchol')" "bestchol"
+echo $WATER | tr 'water' 'bestchol' | tr "$(echo $STIR | tr 'stir.' 'bestchol')" "cholbest"
